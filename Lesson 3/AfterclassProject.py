@@ -1,2 +1,2 @@
-message = "Congrats on yor victory in football!"
+message = "Congrats on your victory in football!"
 print(message.upper())
